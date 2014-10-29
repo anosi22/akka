@@ -10,6 +10,6 @@ For fault-tolerance we adopt the "Let it crash" model which the telecom industry
 
 Actors also provide the abstraction for transparent distribution and the basis for truly scalable and fault-tolerant applications.
 
-Akka is Open Source and available under the Apache 2 License.
+Akka is Open Source and available under the Apache 2 License  
 
 Learn more at "http://akka.io":http://akka.io.
